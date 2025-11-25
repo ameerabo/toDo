@@ -19,7 +19,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/danialtrody/ToDo.git
+git clone [https://github.com/danialtrody/ToDo.git](https://github.com/ameerabo/toDo)
 
 
 Navigate to the project directory:
